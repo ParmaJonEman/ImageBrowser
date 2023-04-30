@@ -2,7 +2,7 @@
 ### Setup
 
 - [Install OpenCV](https://opencv.org/releases/), and replace the path in the CMAKE file on the find_package line with your new path
-- If you're on Windows, [download dirent.h](https://github.com/tronkko/dirent) and put in your linker's include folder
+- If you're on Windows, [download dirent.h](https://github.com/tronkko/dirent) and put it in your linker's include folder
 - Build the project with the standard CMAKE build commands
 
 ### Run
